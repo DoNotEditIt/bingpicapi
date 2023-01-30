@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "build": "node ./src/BingPicApi.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "superagent": "^8.0.9"
+    }
+}
